@@ -1,0 +1,39 @@
+nav{
+    line-height: 100px;
+    /* text-align: center; */
+    display: flexbox;
+    word-spacing: 80px;
+    text-align: center;
+    background-color: bisque;
+}
+
+#formContainer{
+    background-color: rgb(219, 11, 80);
+    color: ghostwhite;
+}
+
+#nameContainer{
+    border: solid darkslategrey 3px;
+    padding: 10px;
+}
+
+#emailContainer{
+    border: solid darkslategrey 3px;
+    padding: 10px;
+}
+
+#opinionContainer{
+    border: solid darkslategrey 3px;
+    padding: 10px;
+}
+
+#headingContainer{
+    text-align: center;
+}
+p{
+    color: rgb(255, 255, 255);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+h1{
+    color: rgb(28, 60, 201);
+}

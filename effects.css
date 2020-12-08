@@ -1,0 +1,31 @@
+
+nav{
+    line-height: 100px;
+    /* text-align: center; */
+    display: flexbox;
+    word-spacing: 80px;
+    text-align: center;
+    background-color: bisque;
+}
+
+h1{
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(28, 60, 201);
+}
+h2{
+    background-color: cornsilk;
+    line-height: 50px;
+}
+li{
+    line-height: 40px;
+    font-weight: bold;
+    color: black;
+}
+a{
+    color: black;
+    font-size: x-large;
+}
+#myList{
+    background-color: darkseagreen;
+}

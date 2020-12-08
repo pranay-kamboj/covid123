@@ -1,0 +1,32 @@
+nav{
+    line-height: 100px;
+    /* text-align: center; */
+    display: flexbox;
+    word-spacing: 80px;
+    text-align: center;
+    background-color: bisque;
+}
+
+th{
+    color: purple;
+    border: solid black 3px;
+}
+table{
+    border: solid black 3px;
+    border-collapse: collapse;
+    height: 200px;
+    width: 350px;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+td{
+    border: solid black 3px;
+}
+#tableContainer{
+    background-color: coral;
+}
+h1{
+    color: rgb(28, 60, 201);
+}

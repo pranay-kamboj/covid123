@@ -1,0 +1,25 @@
+h1{
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(28, 60, 201);
+}
+nav{
+    line-height: 100px;
+    /* text-align: center; */
+    display: flexbox;
+    word-spacing: 80px;
+    text-align: center;
+    background-color: bisque;
+}
+#effect{
+    text-align: left;
+}
+#helpline{
+    text-align: center;
+}
+#opinion{
+    text-align: right;
+}
+#covid_image{
+    align-items: baseline;
+}

@@ -1,0 +1,24 @@
+nav{
+    line-height: 100px;
+    /* text-align: center; */
+    display: flexbox;
+    word-spacing: 80px;
+    text-align: center;
+    background-color: bisque;
+}
+h1{
+    text-align: center;
+}
+
+#symptomsContainer{
+    border: solid forestgreen 5px;
+    border-radius: 7px;
+    background-color: goldenrod;
+}
+h4{
+    text-align: center;
+}
+li{
+    border: solid rgb(0, 163, 36) 2px;
+    font-size: 20px;
+}

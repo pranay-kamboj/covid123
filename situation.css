@@ -1,0 +1,25 @@
+nav{
+    line-height: 100px;
+    /* text-align: center; */
+    display: flexbox;
+    word-spacing: 80px;
+    text-align: center;
+    background-color: bisque;
+}
+h1{
+    text-align: center;
+    color: rgb(28, 60, 201);
+}
+h2{
+    text-align: center;
+    color: maroon;
+}
+#worldGraph{
+    margin-left: 200px;
+    margin-right: 200px;
+}
+#indiaGraph{
+    margin-left: 200px;
+    margin-right: 200px;
+
+}
